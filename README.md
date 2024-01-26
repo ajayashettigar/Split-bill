@@ -1,5 +1,5 @@
 # Split-bill
-One of my first code that allows you to split the bill among your friends along with tip percentage
+One of my first code in python that allows you to split the bill among your friends along with tip percentage
 # My Code
 print("Welcome to the tip calculator!")
 bill = int(input("The total bill amount is Rs."))
